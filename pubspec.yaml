@@ -38,14 +38,7 @@ dependencies:
   firebase_auth: ^6.3.0
   cloud_firestore: ^6.2.0
   get: ^4.7.3
-  intl: ^0.18.0
-  marquee: ^2.2.3
   google_fonts: ^8.2.0
-  lottie: ^3.1.0
-  connectivity_plus: ^6.0.3
-  internet_connection_checker: ^1.0.0+1
-  geolocator: ^10.1.0
-  geocoding: ^2.1.0
   google_sign_in: ^7.1.1
   
 
