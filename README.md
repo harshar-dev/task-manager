@@ -9,6 +9,7 @@ This app allows users to create an account, login securely, and manage their dai
 - 🔐 Firebase Authentication
   - User Registration
   - User Login
+  - Google Login
   - User Logout
 
 - 📝 Task Management
@@ -29,6 +30,5 @@ This app allows users to create an account, login securely, and manage their dai
 - Dart
 - GetX
 - Firebase Authentication
+- Google Sign-In
 - Cloud Firestore
-
-## 📂 Project Structure
