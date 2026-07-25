@@ -1,17 +1,34 @@
-# task_manager_app
+# Task Manager App
 
-A new Flutter project.
+A simple Task Management application built using Flutter and Firebase.
 
-## Getting Started
+This app allows users to create an account, login securely, and manage their daily tasks.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication
+  - User Registration
+  - User Login
+  - User Logout
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 📝 Task Management
+  - Add new tasks
+  - View tasks
+  - Update tasks
+  - Delete tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ☑️ Task Completion
+  - Mark tasks as completed using checkbox
+
+- ☁️ Cloud Storage
+  - Store user tasks using Firebase Cloud Firestore
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- GetX
+- Firebase Authentication
+- Cloud Firestore
+
+## 📂 Project Structure
