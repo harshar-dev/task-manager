@@ -1,7 +1,7 @@
 # Task Manager App
 
 ## 📱 Screenshots
-<img width="800" height="1200" alt="task_manager_showcase" src="https://github.com/user-attachments/assets/dcdac147-8e5e-4fe8-87cc-f738c8fa5aae" />
+<img width="700" height="1760" alt="task_manager_showcase" src="https://github.com/user-attachments/assets/dcdac147-8e5e-4fe8-87cc-f738c8fa5aae" />
 
 
 
