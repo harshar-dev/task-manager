@@ -1,7 +1,8 @@
 # Task Manager App
 
 ## 📱 Screenshots
-<img width="700" height="1462" alt="task_manager_showcase" src="https://github.com/user-attachments/assets/dcdac147-8e5e-4fe8-87cc-f738c8fa5aae" />
+<img width="700" height="700" alt="task_manager_showcase" src="https://github.com/user-attachments/assets/dcdac147-8e5e-4fe8-87cc-f738c8fa5aae" />
+
 
 
 A modern Task Management application built using **Flutter** and **Firebase**.
