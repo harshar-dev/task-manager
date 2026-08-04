@@ -1,8 +1,12 @@
 # Task Manager App
 
-A simple Task Management application built using Flutter and Firebase.
+## 📱 Screenshots
+<img width="700" height="1462" alt="task_manager_showcase" src="https://github.com/user-attachments/assets/dcdac147-8e5e-4fe8-87cc-f738c8fa5aae" />
 
-This app allows users to create an account, login securely, and manage their daily tasks.
+
+A modern Task Management application built using **Flutter** and **Firebase**.
+
+The application enables users to securely authenticate, create and manage daily tasks, update task status, and synchronize data in real time using Cloud Firestore.
 
 ## 🚀 Features
 
