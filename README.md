@@ -1,33 +1,46 @@
 # Task Manager App
 
-## 📱 Screenshots
-<img width="550" height="1320" alt="task_manager_showcase" src="https://github.com/user-attachments/assets/dcdac147-8e5e-4fe8-87cc-f738c8fa5aae" />
 
 
+*A modern Task Management application built using **Flutter** and **Firebase**.*
 
-A modern Task Management application built using **Flutter** and **Firebase**.
+The application enables users to securely authenticate, create and manage daily tasks, update task status, synchronize data in real time using Cloud Firestore, and upgrade to a premium plan using **Razorpay Payment Gateway**.
 
-The application enables users to securely authenticate, create and manage daily tasks, update task status, and synchronize data in real time using Cloud Firestore.
+---
 
 ## 🚀 Features
 
 - 🔐 Firebase Authentication
+
   - User Registration
   - User Login
   - Google Login
   - User Logout
 
 - 📝 Task Management
+
   - Add new tasks
   - View tasks
   - Update tasks
   - Delete tasks
 
 - ☑️ Task Completion
+
   - Mark tasks as completed using checkbox
 
-- ☁️ Cloud Storage
-  - Store user tasks using Firebase Cloud Firestore
+- 👑 Premium Subscription
+
+  - Free users can create a limited number of tasks
+  - Upgrade to Premium using **Basic Razorpay Payment Gateway Integration**
+  - Premium users can create unlimited tasks
+
+- ☁️ Cloud Firestore
+
+  - Store user information
+  - Store user tasks
+  - Store premium status
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -37,3 +50,4 @@ The application enables users to securely authenticate, create and manage daily 
 - Firebase Authentication
 - Google Sign-In
 - Cloud Firestore
+- Basic Razorpay Payment Gateway Integration
