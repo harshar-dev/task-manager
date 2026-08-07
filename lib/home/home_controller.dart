@@ -1,3 +1,4 @@
+
 import 'package:get/get.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -8,6 +9,7 @@ class HomeController extends GetxController{
 
   final FirebaseAuth auth = FirebaseAuth.instance;
   final GoogleSignIn googlesign = GoogleSignIn.instance;
+  
 
   final habits = [].obs;
   final user = {}.obs;
@@ -15,6 +17,7 @@ class HomeController extends GetxController{
   @override
   void onInit() {
     fetchhabits();
+    
     fetchUser();
     greetings();
     super.onInit();

@@ -18,7 +18,8 @@ class SignupController extends GetxController{
       'name':name,
       'email':email,
       'password':password,
-      'id':auth.currentUser?.uid
+      'id':auth.currentUser?.uid,
+      'isPremium' :false
      });
      
      Get.offAllNamed('/home');
@@ -40,6 +41,7 @@ class SignupController extends GetxController{
       'name' : user.displayName,
       'email' : user.email,
       'id' : auth.currentUser?.uid,
+      'isPremium' :false
 
      });
 

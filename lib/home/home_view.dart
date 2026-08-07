@@ -16,6 +16,8 @@ class _HomeViewState extends State<HomeView> {
   final FirebaseAuth auth = FirebaseAuth.instance;
   final controller = Get.put(HomeController());
   
+ 
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(

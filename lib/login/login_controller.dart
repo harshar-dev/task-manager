@@ -31,7 +31,8 @@ class LoginController extends GetxController{
         'name' : user.displayName,
         'email' : user.email,
         'id' : auth.currentUser?.uid,
-        'photoUrl' : user.photoUrl
+        'photoUrl' : user.photoUrl,
+        'isPremium' :false
       });
 
       
